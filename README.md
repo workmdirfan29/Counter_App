@@ -5,9 +5,15 @@ Created with ❤️ by **SahilIK**.
 
 ---
 
+## 📸 Preview
+
+![Counter App Screenshot](Counter.png)
+
+---
+
 ## 🌟 Live Demo
 
-🚀 [Click here to try it out](#) *(Add your GitHub Pages or live URL here)*
+🚀 [Click here to try it out](https://workmdirfan29.github.io/Counter_App/) *(Add your GitHub Pages or live URL here)*
 
 ---
 
